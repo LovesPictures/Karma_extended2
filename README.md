@@ -1,12 +1,8 @@
-# karma-clone
+# karma extended web page
 
-The aim of this exercise is to create a page that looks just like this one: 
-
-
-![alt text](./Karma%20-%20desktop%20extended.png "Karma desktop extended design")
+### Using CSS grid - store page
 
 
-### 
+![image](https://user-images.githubusercontent.com/25634451/143441474-c653c1de-481b-472d-9eff-843f231b0d54.png)
 
-**Updateded form page and store page
 
